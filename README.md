@@ -32,9 +32,28 @@ $UsuarioLuis = [
 "MejorTiempo" => 125.78,
 //Es presentado con segundos y mini segundos.
 ];
-$UsuarioJosue
 
-$usuarioRoqueni
-
+$RiosJosue = [
+"Llantas" => "Dorado",
+"AltaDelTa" => "Superala",
+"CircuitoAElegir" => "Bowser's Castle",
+"Carro" => "Eatandar",
+"Velocidad_Dificultad" => "100", 
+"ColorDelPersonaje" => "Negro",
+"PersonajeAElegir" => "Yoshi",
+"Objetos" => "Super Estrella",
+"Vestimenta" => "Tenis Rojos",
+"Peso" => "75",
+"Derrape" => "80",
+"AlturaDelPersonaje" => "1.40",
+"EquipoAzul" => "false",
+"EligioCarro" => "true",
+"TipoDeSueloDelCircuito" => "Liso",
+"TipoDeEspecieDelPersonaje" => "Dinosaurio",
+"GanoLaCarrera" => "true",
+"MejorTiempo" => "105.8",
+"Volante" => "false",
+"AutoAyuda" => "true",
+];
 
 
