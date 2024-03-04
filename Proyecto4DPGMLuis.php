@@ -128,3 +128,11 @@ $roqueni = [
 "MejorTiempo" => 140.99,
 
 ];
+$SelectorDeUsuarios = [
+  $UsuarioLuis,
+  $EmilioXD,
+  $roqueni,
+  $RiosJosue
+  ];
+  
+echo json_encode($SelectorDeUsuarios);
