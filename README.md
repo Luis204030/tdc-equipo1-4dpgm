@@ -56,4 +56,31 @@ $RiosJosue = [
 "AutoAyuda" => "true",
 ];
 
-
+$EmilioXD = [
+"Neumatico" => "Pequeño",
+"Carro" => "Estandar-dorado",
+"AltaDelta" => "Parapente",
+"CircuitoASeleccionar" => "Rainbow-Road",
+"Velocidad_Dificultad" => 200,
+//Dificultad de manejo de la carrera; Facil-50, Medio-100, Dificil-150 y 200
+"PersonajeAElegir" => "Warrio",
+"ColorDelPersonaje" => "Amarillo",
+"Vestimenta" => "Ropa De Plomero",
+"Objeto" => "Hongo-dorado",
+"Derrape" => "50",
+//Los derrapes son los siguientes, 25, 50, 75 y 80, es en porcentajes.
+"Peso" => "140",
+//Estos son los siguientes pesos de carros, 25, 50, 75 y 80, estan en porcentajes.
+"EquipoAzul" => false,
+//Los booleanos no tengo mucha informacion de como funcionan, aun que es facil decir que esta en el equipo Azul
+"AlturaDePersonaje" => "1.55",
+"TipoDeSueloDelCircuito" => "Metal",
+"SeleccionaVehiculo" => true,
+"GanoLaCarrera" => true,
+"TipoDeEspecieDelPersonaje" => "Humano",
+//Hay diferentes especies, tenemos humano, fantasma, mono, gorilla, planta, dinosaurio y moustruo
+"AyudaAutomatica" => false,
+"Volante" => false,
+"MejorTiempo" => 112.18,
+//Es presentado con segundos y mini segundos.
+];
