@@ -84,3 +84,47 @@ $EmilioXD = [
 "MejorTiempo" => 112.18,
 //Es presentado con segundos y mini segundos.
 ];
+
+$roqueni = [
+
+"personaje" => "mario",
+
+"ColorDelPersonaje" => "rojo",
+
+"Vestimenta" => "Ropa de plomero con bigote",
+
+"Objetos" => "la bala",
+
+"Derrape" => "25",
+
+"Peso" => "54"
+
+"Carro" => "maton",
+
+"Llantas" => "madera",
+
+"AlaDelta" => "besti ala",
+
+"CircuitoAElegir" => "neo bouser citi",
+
+"Velocidad_Dificultad" => 50,
+
+"EquipoAzul" => "true",
+
+"AlturaDePersonaje" => "1.5o",
+
+"TipoDeSueloDelCircuito" => "arena",
+
+"EligioCarro" => "true",
+
+"GanoLaCarrera" => "false",
+
+"TipoDeEspecieDelPersonaje" => "Humano",
+
+"AutoAyuda" => "true",
+
+"Volante" => "true",
+
+"MejorTiempo" => 140.99,
+
+];
