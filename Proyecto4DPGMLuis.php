@@ -1,4 +1,5 @@
- <HEAD>
+<HTML>
+    <HEAD>
     <TITLE>JavaScript index</TITLE>
     
     <script Language="JavaScript">
